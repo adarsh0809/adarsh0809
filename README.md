@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">I am a passionate Software Developer with expertise in the Web Development space.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh0809" alt="adarsh0809" /></a> </p>
-
-- 🔭 I’m currently working on [Anime-DB](https://github.com/adarsh0809/Anime-DB)
+- 🔭 I’m currently working on **Anime-DB**
 
 - 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **MERN, MEAN**
 
 - 📫 How to reach me **adarshkumar799117@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BMKDAEA4qATZA_pWKLYkH3mE7ceoCNve/view?usp=drive_link](https://drive.google.com/file/d/1BMKDAEA4qATZA_pWKLYkH3mE7ceoCNve/view?usp=drive_link)
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under 2 minutes.**
 
