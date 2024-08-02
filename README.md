@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">I am a passionate Software Developer with expertise in the Web Development space.</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+
 
 - 🔭 I’m currently working on **Anime-DB**
 
